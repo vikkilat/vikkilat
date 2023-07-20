@@ -1,16 +1,66 @@
-### Hi there 👋
+# <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+To+My+GitHub+Profile+!)](https://git.io/typing-svg)</div>
 
-<!--
-**vikkilat/vikkilat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :woman_technologist: &nbsp;Обо мне:
 
-Here are some ideas to get you started:
+Меня зовут Виктория и я python-разработчик.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 &nbsp;Стек технологий:
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
+  </a>
+  <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
+   <img src="https://cdn.iconscout.com/icon/free/png-256/django-2-282855.png" alt="django-rest-framework" width="40" height="40"/> 
+  </a>
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  </a>
+  <a href="https://cloud.yandex.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/60144309?s=280&v=4" alt="yandex-cloud" width="40" height="40"/> 
+  </a>
+</p>
+
+---
+
+## 📊 &nbsp;Статистика:
+
+<div>
+  <a href="https://github-readme-stats.vercel.app/api?username=vikkilat">
+    <img align="left" height="165" src="https://github-readme-stats.vercel.app/api?username=vikkilat&include_all_commits=false&show_icons=true&hide=prs&theme=default&title_color=4887d7&icon_color=5193e4&bg_color=ffffff00&text_color=647a86&text_bold=false&border_color=444c54"/>
+  </a>
+</div>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikkilat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
