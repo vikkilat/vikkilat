@@ -48,6 +48,9 @@
   <a href="https://cloud.yandex.com/" target="_blank" rel="noreferrer"> 
     <img src="https://avatars.githubusercontent.com/u/60144309?s=280&v=4" alt="yandex-cloud" width="40" height="40"/> 
   </a>
+  <a href="https://cloud.yandex.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://scrapy.org/img/scrapylogo.png" alt="scrapy" width="100" height="40"/> 
+  </a>
 </p>
 
 ---
