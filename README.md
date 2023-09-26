@@ -48,8 +48,14 @@
   <a href="https://cloud.yandex.com/" target="_blank" rel="noreferrer"> 
     <img src="https://avatars.githubusercontent.com/u/60144309?s=280&v=4" alt="yandex-cloud" width="40" height="40"/> 
   </a>
-  <a href="https://cloud.yandex.com/" target="_blank" rel="noreferrer"> 
+    <a href="https://cloud.yandex.com/" target="_blank" rel="noreferrer"> 
     <img src="https://scrapy.org/img/scrapylogo.png" alt="scrapy" width="100" height="40"/> 
+  </a>
+    <a href="https://cloud.yandex.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://flask.palletsprojects.com/en/2.3.x/_images/flask-horizontal.png" alt="flask" width="100" height="40"/> 
+  </a>
+  <a href="https://cloud.yandex.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="100" height="40"/> 
   </a>
 </p>
 
